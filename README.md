@@ -21,7 +21,7 @@ db.create_all()
 ```
 
 #### Credentials
-We need following credentials:
+- We need following credentials:
 ```
 1. Mysql Credentials in app.py file
 ```
